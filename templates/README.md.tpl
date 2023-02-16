@@ -16,6 +16,6 @@
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 10}}
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
