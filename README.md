@@ -10,7 +10,7 @@
 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - 
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data
-- [robinvdvleuten/robinvdvleuten.github.io](https://github.com/robinvdvleuten/robinvdvleuten.github.io) - 
+- [robinvdvleuten/robinvdvleuten.github.io](https://github.com/robinvdvleuten/robinvdvleuten.github.io) - Placeholder for my personal website
 
 #### 🔭 Latest releases I've contributed to
 
