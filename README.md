@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/flight-search-assignment](https://github.com/robinvdvleuten/flight-search-assignment) -  (today)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 week ago)
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (1 month ago)
-- [mijnverbruik/mijnverbruik](https://github.com/mijnverbruik/mijnverbruik) -  (3 months ago)
 
 #### 🌱 My latest projects
 
+- [robinvdvleuten/flight-search-assignment](https://github.com/robinvdvleuten/flight-search-assignment) - 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - 
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data
-- [robinvdvleuten/robinvdvleuten.github.io](https://github.com/robinvdvleuten/robinvdvleuten.github.io) - Placeholder for my personal website
 
 #### 🔭 Latest releases I've contributed to
 
