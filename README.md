@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (4 weeks ago)
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 month ago)
 - [robinvdvleuten/flight-search-assignment](https://github.com/robinvdvleuten/flight-search-assignment) -  (2 months ago)
-- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (3 months ago)
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -15,11 +15,11 @@
 #### 🔭 Latest releases I've contributed to
 
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 7 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
-- [gocancel/gocancel-cli](https://github.com/gocancel/gocancel-cli) ([v0.3.0](https://github.com/gocancel/gocancel-cli/releases/tag/v0.3.0), 10 months ago) - A command-line tool for GoCancel
-- [gocancel/gocancel-go](https://github.com/gocancel/gocancel-go) ([v0.5.1](https://github.com/gocancel/gocancel-go/releases/tag/v0.5.1), 10 months ago) - Go library for accessing the GoCancel API.
+- [gocancel/gocancel-cli](https://github.com/gocancel/gocancel-cli) ([v0.3.0](https://github.com/gocancel/gocancel-cli/releases/tag/v0.3.0), 11 months ago) - A command-line tool for GoCancel
+- [gocancel/gocancel-go](https://github.com/gocancel/gocancel-go) ([v0.5.1](https://github.com/gocancel/gocancel-go/releases/tag/v0.5.1), 11 months ago) - Go library for accessing the GoCancel API.
 
 #### 🔨 Latest Pull Requests I published
 
 - [Update CLDR to v42](https://github.com/robinvdvleuten/addressing/pull/8) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (3 months ago)
-- [Add support for Unpoly v2](https://github.com/webstronauts/php-unpoly/pull/9) on [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) (3 months ago)
+- [Add support for Unpoly v2](https://github.com/webstronauts/php-unpoly/pull/9) on [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) (4 months ago)
 - [Validate checksum before parsing telegram](https://github.com/webstronauts/ex_dsmr/pull/4) on [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) (7 months ago)
