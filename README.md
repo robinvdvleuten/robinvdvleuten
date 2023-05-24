@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 7 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
+- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 8 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [gocancel/gocancel-cli](https://github.com/gocancel/gocancel-cli) ([v0.3.0](https://github.com/gocancel/gocancel-cli/releases/tag/v0.3.0), 11 months ago) - A command-line tool for GoCancel
 - [gocancel/gocancel-go](https://github.com/gocancel/gocancel-go) ([v0.5.1](https://github.com/gocancel/gocancel-go/releases/tag/v0.5.1), 11 months ago) - Go library for accessing the GoCancel API.
 
