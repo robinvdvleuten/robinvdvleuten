@@ -15,8 +15,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 9 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
-- [gocancel/gocancel-cli](https://github.com/gocancel/gocancel-cli) ([v0.3.0](https://github.com/gocancel/gocancel-cli/releases/tag/v0.3.0), 1 year ago) - A command-line tool for GoCancel
-- [gocancel/gocancel-go](https://github.com/gocancel/gocancel-go) ([v0.5.1](https://github.com/gocancel/gocancel-go/releases/tag/v0.5.1), 1 year ago) - Go library for accessing the GoCancel API.
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v1.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v1.0.0), 4 years ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
 #### 🔨 Latest Pull Requests I published
 
