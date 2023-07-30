@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (2 days ago)
-- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (4 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (3 days ago)
+- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (5 days ago)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (3 months ago)
 
 #### 🌱 My latest projects
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.1.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.1.0), 2 days ago) - A parser for DSMR telegram data in Go
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.1.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.1.0), 3 days ago) - A parser for DSMR telegram data in Go
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 10 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v1.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v1.0.0), 4 years ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
