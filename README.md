@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (2 days ago)
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (2 weeks ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (3 months ago)
 
 #### 🌱 My latest projects
 
