@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (2 days ago)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (6 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (3 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (1 week ago)
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -21,5 +21,5 @@
 #### 🔨 Latest Pull Requests I published
 
 - [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
-- [Generate parser from PEG grammar](https://github.com/mijnverbruik/dsmr/pull/3) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
+- [Generate parser from PEG grammar](https://github.com/mijnverbruik/dsmr/pull/3) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (2 weeks ago)
 - [Update CLDR to v42](https://github.com/robinvdvleuten/addressing/pull/8) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (5 months ago)
