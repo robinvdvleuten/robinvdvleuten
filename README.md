@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (today)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (3 days ago)
-- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (2 weeks ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (4 days ago)
+- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.3.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.3.0), today) - A parser for DSMR telegram data in Go
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.3.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.3.0), 1 day ago) - A parser for DSMR telegram data in Go
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 10 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v1.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v1.0.0), 4 years ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
+- [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (2 weeks ago)
 - [Generate parser from PEG grammar](https://github.com/mijnverbruik/dsmr/pull/3) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (2 weeks ago)
-- [Update CLDR to v42](https://github.com/robinvdvleuten/addressing/pull/8) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (5 months ago)
+- [Update CLDR to v42](https://github.com/robinvdvleuten/addressing/pull/8) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (6 months ago)
