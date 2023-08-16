@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (2 days ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (5 days ago)
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (3 weeks ago)
 
 #### 🌱 My latest projects
