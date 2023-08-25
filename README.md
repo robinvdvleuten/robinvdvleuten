@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (6 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (1 week ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (1 week ago)
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 month ago)
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Expose shared IPv4 address through app data source](https://github.com/fly-apps/terraform-provider-fly/pull/231) on [fly-apps/terraform-provider-fly](https://github.com/fly-apps/terraform-provider-fly) (1 day ago)
+- [Expose shared IPv4 address through app data source](https://github.com/fly-apps/terraform-provider-fly/pull/231) on [fly-apps/terraform-provider-fly](https://github.com/fly-apps/terraform-provider-fly) (2 days ago)
 - [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (3 weeks ago)
 - [Generate parser from PEG grammar](https://github.com/mijnverbruik/dsmr/pull/3) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (3 weeks ago)
