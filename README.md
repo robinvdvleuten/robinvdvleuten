@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Allow `enableBrowserFallbacks` option to be overridden](https://github.com/google/strict-csp/pull/60) on [google/strict-csp](https://github.com/google/strict-csp) (today)
 - [Expose shared IPv4 address through app data source](https://github.com/fly-apps/terraform-provider-fly/pull/231) on [fly-apps/terraform-provider-fly](https://github.com/fly-apps/terraform-provider-fly) (3 weeks ago)
 - [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 month ago)
-- [Generate parser from PEG grammar](https://github.com/mijnverbruik/dsmr/pull/3) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 month ago)
