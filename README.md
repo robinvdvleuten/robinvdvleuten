@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (6 days ago)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (1 week ago)
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 week ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (2 weeks ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -22,4 +22,4 @@
 
 - [Allow `enableBrowserFallbacks` option to be overridden](https://github.com/google/strict-csp/pull/60) on [google/strict-csp](https://github.com/google/strict-csp) (2 months ago)
 - [Expose shared IPv4 address through app data source](https://github.com/fly-apps/terraform-provider-fly/pull/231) on [fly-apps/terraform-provider-fly](https://github.com/fly-apps/terraform-provider-fly) (3 months ago)
-- [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (3 months ago)
+- [chore: Error when grammar.peg contains uncommitted changes](https://github.com/mijnverbruik/dsmr/pull/4) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (4 months ago)
