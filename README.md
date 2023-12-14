@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (3 weeks ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (4 weeks ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (3 months ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 4 weeks ago) - A parser for DSMR telegram data in Go
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 1 month ago) - A parser for DSMR telegram data in Go
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 1 year ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v1.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v1.0.0), 4 years ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
