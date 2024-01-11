@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (today)
+- [statamic/statamic](https://github.com/statamic/statamic) - Statamic: The New Site/App Package (today)
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package (1 day ago)
-- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (1 week ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [statamic/statamic](https://github.com/statamic/statamic) ([v4.0.4](https://github.com/statamic/statamic/releases/tag/v4.0.4), today) - Statamic: The New Site/App Package
 - [statamic/cms](https://github.com/statamic/cms) ([v4.43.0](https://github.com/statamic/cms/releases/tag/v4.43.0), 2 days ago) - The core Laravel CMS Composer package
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 1 month ago) - A parser for DSMR telegram data in Go
-- [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 1 year ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
 
