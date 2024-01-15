@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (3 days ago)
-- [statamic/statamic](https://github.com/statamic/statamic) - Statamic: The New Site/App Package (3 days ago)
-- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package (4 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (4 days ago)
+- [statamic/statamic](https://github.com/statamic/statamic) - Statamic: The New Site/App Package (4 days ago)
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v4.44.0](https://github.com/statamic/cms/releases/tag/v4.44.0), 3 days ago) - The core Laravel CMS Composer package
-- [statamic/statamic](https://github.com/statamic/statamic) ([v4.0.4](https://github.com/statamic/statamic/releases/tag/v4.0.4), 3 days ago) - Statamic: The New Site/App Package
+- [statamic/cms](https://github.com/statamic/cms) ([v4.44.0](https://github.com/statamic/cms/releases/tag/v4.44.0), 4 days ago) - The core Laravel CMS Composer package
+- [statamic/statamic](https://github.com/statamic/statamic) ([v4.0.4](https://github.com/statamic/statamic/releases/tag/v4.0.4), 4 days ago) - Statamic: The New Site/App Package
 - [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) ([v0.3.0](https://github.com/webstronauts/ex_dsmr/releases/tag/v0.3.0), 1 year ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
 
-- [Use correct set_time_limit no limit value](https://github.com/statamic/statamic/pull/60) on [statamic/statamic](https://github.com/statamic/statamic) (3 days ago)
-- [[4.x] Use correct set_time_limit no limit value](https://github.com/statamic/cms/pull/9297) on [statamic/cms](https://github.com/statamic/cms) (4 days ago)
+- [Use correct set_time_limit no limit value](https://github.com/statamic/statamic/pull/60) on [statamic/statamic](https://github.com/statamic/statamic) (4 days ago)
+- [[4.x] Use correct set_time_limit no limit value](https://github.com/statamic/cms/pull/9297) on [statamic/cms](https://github.com/statamic/cms) (5 days ago)
 - [Allow `enableBrowserFallbacks` option to be overridden](https://github.com/google/strict-csp/pull/60) on [google/strict-csp](https://github.com/google/strict-csp) (4 months ago)
