@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (2 weeks ago)
 - [statamic/statamic](https://github.com/statamic/statamic) - Statamic: The New Site/App Package (2 weeks ago)
-- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package (2 weeks ago)
 
 #### 🌱 My latest projects
 
