@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (1 day ago)
+- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (2 days ago)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (4 weeks ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A parser for DSMR telegram data in Go (1 month ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v4.50.0](https://github.com/statamic/cms/releases/tag/v4.50.0), 1 day ago) - The core Laravel CMS Composer package
+- [statamic/cms](https://github.com/statamic/cms) ([v4.50.0](https://github.com/statamic/cms/releases/tag/v4.50.0), 2 days ago) - The core Laravel CMS Composer package
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 2 weeks ago) - A parser for DSMR telegram data in Go
 - [statamic/statamic](https://github.com/statamic/statamic) ([v4.0.4](https://github.com/statamic/statamic/releases/tag/v4.0.4), 1 month ago) - Statamic: The New Site/App Package
 
