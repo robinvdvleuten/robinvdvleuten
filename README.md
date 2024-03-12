@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v4.53.0](https://github.com/statamic/cms/releases/tag/v4.53.0), 1 day ago) - The core Laravel CMS Composer package
+- [statamic/cms](https://github.com/statamic/cms) ([v4.53.1](https://github.com/statamic/cms/releases/tag/v4.53.1), today) - The core Laravel CMS Composer package
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 1 month ago) - A parser for DSMR telegram data in Go
 - [statamic/statamic](https://github.com/statamic/statamic) ([v4.0.4](https://github.com/statamic/statamic/releases/tag/v4.0.4), 2 months ago) - Statamic: The New Site/App Package
 
