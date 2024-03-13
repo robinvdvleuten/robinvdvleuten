@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (today)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (today)
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (2 weeks ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rewrite library to use yecc](https://github.com/webstronauts/ex_dsmr/pull/26) on [webstronauts/ex_dsmr](https://github.com/webstronauts/ex_dsmr) (today)
+- [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (today)
 - [Use correct set_time_limit no limit value](https://github.com/statamic/statamic/pull/60) on [statamic/statamic](https://github.com/statamic/statamic) (2 months ago)
 - [[4.x] Use correct set_time_limit no limit value](https://github.com/statamic/cms/pull/9297) on [statamic/cms](https://github.com/statamic/cms) (2 months ago)
