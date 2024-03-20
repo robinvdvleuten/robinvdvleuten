@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [statamic/statamic](https://github.com/statamic/statamic) ([v4.0.5](https://github.com/statamic/statamic/releases/tag/v4.0.5), today) - Statamic: The New Site/App Package
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 1 week ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [statamic/cms](https://github.com/statamic/cms) ([v4.53.2](https://github.com/statamic/cms/releases/tag/v4.53.2), 1 week ago) - The core Laravel CMS Composer package
-- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) ([v0.4.0](https://github.com/robinvdvleuten/dsmr/releases/tag/v0.4.0), 1 month ago) - A parser for DSMR telegram data in Go
 
 #### 🔨 Latest Pull Requests I published
 
