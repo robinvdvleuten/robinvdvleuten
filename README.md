@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (6 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (today)
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (1 week ago)
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (3 weeks ago)
 
