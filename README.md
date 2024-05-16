@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (today)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (2 months ago)
 - [Use correct set_time_limit no limit value](https://github.com/statamic/statamic/pull/60) on [statamic/statamic](https://github.com/statamic/statamic) (4 months ago)
-- [[4.x] Use correct set_time_limit no limit value](https://github.com/statamic/cms/pull/9297) on [statamic/cms](https://github.com/statamic/cms) (4 months ago)
