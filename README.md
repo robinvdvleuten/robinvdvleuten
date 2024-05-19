@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (today)
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (1 day ago)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 month ago)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 month ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v5.2.0](https://github.com/statamic/cms/releases/tag/v5.2.0), 3 days ago) - The core Laravel CMS Composer package
-- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.2](https://github.com/statamic/statamic/releases/tag/v5.0.2), 4 days ago) - Statamic: The New Site/App Package
+- [statamic/cms](https://github.com/statamic/cms) ([v5.2.0](https://github.com/statamic/cms/releases/tag/v5.2.0), 4 days ago) - The core Laravel CMS Composer package
+- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.2](https://github.com/statamic/statamic/releases/tag/v5.0.2), 5 days ago) - Statamic: The New Site/App Package
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.23.1](https://github.com/remix-run/react-router/releases/tag/react-router%406.23.1), 1 week ago) - Declarative routing for React
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (2 days ago)
+- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (3 days ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (2 months ago)
 - [Use correct set_time_limit no limit value](https://github.com/statamic/statamic/pull/60) on [statamic/statamic](https://github.com/statamic/statamic) (4 months ago)
