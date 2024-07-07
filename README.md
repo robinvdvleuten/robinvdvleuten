@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (3 weeks ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (3 weeks ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (4 weeks ago)
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (1 month ago)
 
 #### 🌱 My latest projects
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v5.13.0](https://github.com/statamic/cms/releases/tag/v5.13.0), 1 day ago) - The core Laravel CMS Composer package
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.24.1](https://github.com/remix-run/react-router/releases/tag/react-router%406.24.1), 3 days ago) - Declarative routing for React
+- [statamic/cms](https://github.com/statamic/cms) ([v5.13.0](https://github.com/statamic/cms/releases/tag/v5.13.0), 2 days ago) - The core Laravel CMS Composer package
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.24.1](https://github.com/remix-run/react-router/releases/tag/react-router%406.24.1), 4 days ago) - Declarative routing for React
 - [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.6](https://github.com/statamic/statamic/releases/tag/v5.0.6), 2 weeks ago) - Statamic: The New Site/App Package
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
+- [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 weeks ago)
 - [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (1 month ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (3 months ago)
