@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (1 month ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (1 month ago)
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (1 month ago)
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.25.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.25.0), today) - Declarative routing for React
-- [statamic/cms](https://github.com/statamic/cms) ([v5.14.0](https://github.com/statamic/cms/releases/tag/v5.14.0), 6 days ago) - The core Laravel CMS Composer package
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.25.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.25.0), 1 day ago) - Declarative routing for React
+- [statamic/cms](https://github.com/statamic/cms) ([v5.14.0](https://github.com/statamic/cms/releases/tag/v5.14.0), 1 week ago) - The core Laravel CMS Composer package
 - [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.6](https://github.com/statamic/statamic/releases/tag/v5.0.6), 4 weeks ago) - Statamic: The New Site/App Package
 
 #### 🔨 Latest Pull Requests I published
