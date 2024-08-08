@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (1 month ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (1 month ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (2 months ago)
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (2 months ago)
 
 #### 🌱 My latest projects
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.7](https://github.com/statamic/statamic/releases/tag/v5.0.7), today) - Statamic: The New Site/App Package
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.26.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.26.0), 6 days ago) - Declarative routing for React
-- [statamic/cms](https://github.com/statamic/cms) ([v5.19.0](https://github.com/statamic/cms/releases/tag/v5.19.0), 6 days ago) - The core Laravel CMS Composer package
+- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.7](https://github.com/statamic/statamic/releases/tag/v5.0.7), 1 day ago) - Statamic: The New Site/App Package
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.26.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.26.0), 1 week ago) - Declarative routing for React
+- [statamic/cms](https://github.com/statamic/cms) ([v5.19.0](https://github.com/statamic/cms/releases/tag/v5.19.0), 1 week ago) - The core Laravel CMS Composer package
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
+- [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 months ago)
 - [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (2 months ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (4 months ago)
