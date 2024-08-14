@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v5.21.0](https://github.com/statamic/cms/releases/tag/v5.21.0), today) - The core Laravel CMS Composer package
-- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.7](https://github.com/statamic/statamic/releases/tag/v5.0.7), 6 days ago) - Statamic: The New Site/App Package
+- [statamic/cms](https://github.com/statamic/cms) ([v5.21.0](https://github.com/statamic/cms/releases/tag/v5.21.0), 1 day ago) - The core Laravel CMS Composer package
+- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.7](https://github.com/statamic/statamic/releases/tag/v5.0.7), 1 week ago) - Statamic: The New Site/App Package
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.26.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.26.0), 1 week ago) - Declarative routing for React
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 months ago)
-- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (2 months ago)
+- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (3 months ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (5 months ago)
