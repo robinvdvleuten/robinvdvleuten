@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v5.24.0](https://github.com/statamic/cms/releases/tag/v5.24.0), 5 days ago) - The core Laravel CMS Composer package
+- [statamic/cms](https://github.com/statamic/cms) ([v5.24.0](https://github.com/statamic/cms/releases/tag/v5.24.0), 6 days ago) - The core Laravel CMS Composer package
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.26.1](https://github.com/remix-run/react-router/releases/tag/react-router%406.26.1), 3 weeks ago) - Declarative routing for React
 - [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.7](https://github.com/statamic/statamic/releases/tag/v5.0.7), 1 month ago) - Statamic: The New Site/App Package
 
@@ -22,4 +22,4 @@
 
 - [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 months ago)
 - [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (3 months ago)
-- [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (5 months ago)
+- [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (6 months ago)
