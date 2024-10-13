@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.27.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.27.0), 1 day ago) - Declarative routing for React
-- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.8](https://github.com/statamic/statamic/releases/tag/v5.0.8), 5 days ago) - Statamic: The New Site/App Package
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.27.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.27.0), 2 days ago) - Declarative routing for React
+- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.8](https://github.com/statamic/statamic/releases/tag/v5.0.8), 6 days ago) - Statamic: The New Site/App Package
 - [statamic/cms](https://github.com/statamic/cms) ([v5.30.0](https://github.com/statamic/cms/releases/tag/v5.30.0), 1 week ago) - The core Laravel CMS Composer package
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 months ago)
-- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (4 months ago)
+- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (5 months ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (7 months ago)
