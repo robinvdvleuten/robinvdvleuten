@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (4 months ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (4 months ago)
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (5 months ago)
 
 #### 🌱 My latest projects
 
