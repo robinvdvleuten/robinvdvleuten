@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v5.36.0](https://github.com/statamic/cms/releases/tag/v5.36.0), today) - The core Laravel CMS Composer package
+- [statamic/cms](https://github.com/statamic/cms) ([v5.36.0](https://github.com/statamic/cms/releases/tag/v5.36.0), 1 day ago) - The core Laravel CMS Composer package
 - [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.9](https://github.com/statamic/statamic/releases/tag/v5.0.9), 2 weeks ago) - Statamic: The New Site/App Package
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.27.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.27.0), 2 weeks ago) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@6.27.0](https://github.com/remix-run/react-router/releases/tag/react-router%406.27.0), 3 weeks ago) - Declarative routing for React
 
 #### 🔨 Latest Pull Requests I published
 
