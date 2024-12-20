@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 month ago)
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (2 months ago)
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (6 months ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (6 months ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/cms](https://github.com/statamic/cms) ([v5.44.0](https://github.com/statamic/cms/releases/tag/v5.44.0), today) - The core Laravel CMS Composer package
+- [statamic/cms](https://github.com/statamic/cms) ([v5.44.0](https://github.com/statamic/cms/releases/tag/v5.44.0), 1 day ago) - The core Laravel CMS Composer package
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.0.2](https://github.com/remix-run/react-router/releases/tag/react-router%407.0.2), 2 weeks ago) - Declarative routing for React
 - [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.11](https://github.com/statamic/statamic/releases/tag/v5.0.11), 3 weeks ago) - Statamic: The New Site/App Package
 
