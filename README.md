@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (2 months ago)
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (6 months ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (6 months ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (6 months ago)
+- [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (7 months ago)
 - [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (7 months ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (9 months ago)
