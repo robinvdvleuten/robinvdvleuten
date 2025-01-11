@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.12](https://github.com/statamic/statamic/releases/tag/v5.0.12), 4 days ago) - Statamic: The New Site/App Package
+- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.12](https://github.com/statamic/statamic/releases/tag/v5.0.12), 5 days ago) - Statamic: The New Site/App Package
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.1.1](https://github.com/remix-run/react-router/releases/tag/react-router%407.1.1), 2 weeks ago) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 10 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (7 months ago)
-- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (7 months ago)
+- [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (8 months ago)
 - [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (10 months ago)
