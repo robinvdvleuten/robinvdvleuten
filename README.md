@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [statamic/statamic](https://github.com/statamic/statamic) ([v5.0.12](https://github.com/statamic/statamic/releases/tag/v5.0.12), 5 days ago) - Statamic: The New Site/App Package
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.1.1](https://github.com/remix-run/react-router/releases/tag/react-router%407.1.1), 2 weeks ago) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 10 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
+- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) ([v0.4.0](https://github.com/robinvdvleuten/dsmr/releases/tag/v0.4.0), 11 months ago) - A parser for DSMR telegram data in Go
 
 #### 🔨 Latest Pull Requests I published
 
