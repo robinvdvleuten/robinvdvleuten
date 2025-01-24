@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (today)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (3 months ago)
-- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (7 months ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (7 months ago)
 
 #### 🌱 My latest projects
