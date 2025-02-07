@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (1 week ago)
+- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (2 weeks ago)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (3 months ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (8 months ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.1.5](https://github.com/remix-run/react-router/releases/tag/react-router%407.1.5), 6 days ago) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.1.5](https://github.com/remix-run/react-router/releases/tag/react-router%407.1.5), 1 week ago) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 11 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) ([v0.4.0](https://github.com/robinvdvleuten/dsmr/releases/tag/v0.4.0), 1 year ago) - A parser for DSMR telegram data in Go
 
