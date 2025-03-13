@@ -16,7 +16,6 @@
 
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.3.0](https://github.com/remix-run/react-router/releases/tag/react-router%407.3.0), 1 week ago) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 1 year ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
-- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) ([v0.4.0](https://github.com/robinvdvleuten/dsmr/releases/tag/v0.4.0), 1 year ago) - A parser for DSMR telegram data in Go
 
 #### 🔨 Latest Pull Requests I published
 
