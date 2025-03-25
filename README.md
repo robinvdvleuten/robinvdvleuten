@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (1 month ago)
+- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (2 months ago)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (5 months ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (9 months ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.4.0](https://github.com/remix-run/react-router/releases/tag/react-router%407.4.0), 5 days ago) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.4.0](https://github.com/remix-run/react-router/releases/tag/react-router%407.4.0), 6 days ago) - Declarative routing for React
 
 #### 🔨 Latest Pull Requests I published
 
