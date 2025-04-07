@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.0](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.0), 2 days ago) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.0](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.0), 3 days ago) - Declarative routing for React
 
 #### 🔨 Latest Pull Requests I published
 
