@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/knip-infinite-loop](https://github.com/robinvdvleuten/knip-infinite-loop) -  (today)
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (today)
 - [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (2 months ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.50.2](https://github.com/webpro-nl/knip/releases/tag/5.50.2), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.0](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.0), 6 days ago) - Declarative routing for React
 
 #### 🔨 Latest Pull Requests I published
