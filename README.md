@@ -18,6 +18,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add i18next-parser plugin](https://github.com/webpro-nl/knip/pull/1023) on [webpro-nl/knip](https://github.com/webpro-nl/knip) (today)
 - [feat: Replace participle with PEG grammar for parsing](https://github.com/robinvdvleuten/beancount/pull/22) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (10 months ago)
 - [docs: Replace `.` typo with `;`](https://github.com/remix-run/react-router/pull/11561) on [remix-run/react-router](https://github.com/remix-run/react-router) (10 months ago)
-- [Rewrite library to use yecc](https://github.com/mijnverbruik/dsmr/pull/26) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 year ago)
