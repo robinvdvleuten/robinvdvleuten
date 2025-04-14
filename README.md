@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (3 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (today)
 - [robinvdvleuten/knip-infinite-loop](https://github.com/robinvdvleuten/knip-infinite-loop) -  (4 days ago)
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (4 days ago)
 
