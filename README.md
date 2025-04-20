@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (5 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (6 days ago)
 - [robinvdvleuten/knip-infinite-loop](https://github.com/robinvdvleuten/knip-infinite-loop) -  (1 week ago)
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (1 week ago)
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.50.5](https://github.com/webpro-nl/knip/releases/tag/5.50.5), 2 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.1](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.1), 2 days ago) - Declarative routing for React
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.50.5](https://github.com/webpro-nl/knip/releases/tag/5.50.5), 3 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.1](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.1), 3 days ago) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.4.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.4.0), 1 year ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
