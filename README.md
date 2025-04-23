@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 day ago)
-- [robinvdvleuten/knip-infinite-loop](https://github.com/robinvdvleuten/knip-infinite-loop) -  (1 week ago)
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (1 week ago)
+- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (2 months ago)
 
 #### 🌱 My latest projects
 
-- [robinvdvleuten/knip-infinite-loop](https://github.com/robinvdvleuten/knip-infinite-loop) - 
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - 
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data
 
 #### 🔭 Latest releases I've contributed to
 
