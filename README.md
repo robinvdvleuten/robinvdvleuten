@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add dotenvx plugin](https://github.com/webpro-nl/knip/pull/1051) on [webpro-nl/knip](https://github.com/webpro-nl/knip) (today)
 - [Bump minimum required Elixir version](https://github.com/mijnverbruik/dsmr/pull/49) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 day ago)
 - [Parse correct value types for OBIS identifiers](https://github.com/mijnverbruik/dsmr/pull/47) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
-- [Add i18next-parser plugin](https://github.com/webpro-nl/knip/pull/1023) on [webpro-nl/knip](https://github.com/webpro-nl/knip) (1 week ago)
