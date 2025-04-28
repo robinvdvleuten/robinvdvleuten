@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.2](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.2), 4 days ago) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.3](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.3), today) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.5.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.5.0), 5 days ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.50.5](https://github.com/webpro-nl/knip/releases/tag/5.50.5), 1 week ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 
