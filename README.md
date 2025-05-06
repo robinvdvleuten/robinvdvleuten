@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.53.0](https://github.com/webpro-nl/knip/releases/tag/5.53.0), 2 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.53.0](https://github.com/webpro-nl/knip/releases/tag/5.53.0), 3 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [remix-run/react-router](https://github.com/remix-run/react-router) ([react-router@7.5.3](https://github.com/remix-run/react-router/releases/tag/react-router%407.5.3), 1 week ago) - Declarative routing for React
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.5.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.5.0), 1 week ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
@@ -22,4 +22,4 @@
 
 - [Map OBIS identifiers to actual attributes on Telegram struct](https://github.com/mijnverbruik/dsmr/pull/50) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
 - [Add dotenvx plugin](https://github.com/webpro-nl/knip/pull/1051) on [webpro-nl/knip](https://github.com/webpro-nl/knip) (1 week ago)
-- [Bump minimum required Elixir version](https://github.com/mijnverbruik/dsmr/pull/49) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
+- [Bump minimum required Elixir version](https://github.com/mijnverbruik/dsmr/pull/49) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (2 weeks ago)
