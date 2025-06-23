@@ -4,7 +4,7 @@
 
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (2 months ago)
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (2 months ago)
-- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (4 months ago)
+- [robinvdvleuten/dotfiles](https://github.com/robinvdvleuten/dotfiles) - ⚙️ Public repo for my personal dotfiles  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.61.2](https://github.com/webpro-nl/knip/releases/tag/5.61.2), 4 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.61.2](https://github.com/webpro-nl/knip/releases/tag/5.61.2), 5 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.5.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.5.0), 2 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
