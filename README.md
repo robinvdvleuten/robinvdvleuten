@@ -21,4 +21,4 @@
 
 - [Map OBIS identifiers to actual attributes on Telegram struct](https://github.com/mijnverbruik/dsmr/pull/50) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (3 months ago)
 - [Add dotenvx plugin](https://github.com/webpro-nl/knip/pull/1051) on [webpro-nl/knip](https://github.com/webpro-nl/knip) (3 months ago)
-- [Bump minimum required Elixir version](https://github.com/mijnverbruik/dsmr/pull/49) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (3 months ago)
+- [Bump minimum required Elixir version](https://github.com/mijnverbruik/dsmr/pull/49) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (4 months ago)
