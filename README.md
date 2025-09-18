@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.0.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.0.0), today) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.63.1](https://github.com/webpro-nl/knip/releases/tag/5.63.1), 2 weeks ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.5.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.5.0), 4 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
-- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v2.0.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v2.0.0), 7 years ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 
 #### 🔨 Latest Pull Requests I published
 
