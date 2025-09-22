@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) ([v0.5.0](https://github.com/robinvdvleuten/dsmr/releases/tag/v0.5.0), today) - A parser for DSMR telegram data in Go
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.64.0](https://github.com/webpro-nl/knip/releases/tag/5.64.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 4 days ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v0.5.0](https://github.com/mijnverbruik/dsmr/releases/tag/v0.5.0), 5 months ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
 
