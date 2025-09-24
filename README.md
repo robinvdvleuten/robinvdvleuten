@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (today)
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (2 days ago)
-- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (6 days ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (5 months ago)
 
 #### 🌱 My latest projects
