@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.64.1](https://github.com/webpro-nl/knip/releases/tag/5.64.1), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) ([v0.5.0](https://github.com/robinvdvleuten/dsmr/releases/tag/v0.5.0), 4 days ago) - A parser for DSMR telegram data in Go
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.64.0](https://github.com/webpro-nl/knip/releases/tag/5.64.0), 4 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 1 week ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 
 #### 🔨 Latest Pull Requests I published
