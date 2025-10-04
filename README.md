@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 day ago)
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (1 week ago)
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (1 week ago)
 
