@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (today)
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (1 day ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (6 days ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 week ago)
 
 #### 🌱 My latest projects
 
