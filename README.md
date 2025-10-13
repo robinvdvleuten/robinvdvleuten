@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (today)
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (today)
-- [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (2 days ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), today) - Stack middleware for handling Javascript Unpoly Framework requests.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.65.0](https://github.com/webpro-nl/knip/releases/tag/5.65.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v2.1.0](https://github.com/webstronauts/php-unpoly/releases/tag/v2.1.0), 1 day ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) ([v3.0.0](https://github.com/webstronauts/ex_unpoly/releases/tag/v3.0.0), 2 days ago) - Plug adapter for Unpoly, the unobtrusive JavaScript framework
 
 #### 🔨 Latest Pull Requests I published
