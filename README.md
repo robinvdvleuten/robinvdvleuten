@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (today)
-- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (2 days ago)
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (2 days ago)
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (2 days ago)
 
 #### 🌱 My latest projects
 
