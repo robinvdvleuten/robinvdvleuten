@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add support for formatting beancount files](https://github.com/robinvdvleuten/beancount/pull/41) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [feat: add support for links in transactions](https://github.com/robinvdvleuten/beancount/pull/40) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
 - [Map OBIS identifiers to actual attributes on Telegram struct](https://github.com/mijnverbruik/dsmr/pull/50) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (5 months ago)
-- [Add dotenvx plugin](https://github.com/webpro-nl/knip/pull/1051) on [webpro-nl/knip](https://github.com/webpro-nl/knip) (5 months ago)
