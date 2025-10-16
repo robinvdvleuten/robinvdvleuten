@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.66.0](https://github.com/webpro-nl/knip/releases/tag/5.66.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 3 days ago) - Stack middleware for handling Javascript Unpoly Framework requests.
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.65.0](https://github.com/webpro-nl/knip/releases/tag/5.65.0), 3 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) ([v3.0.0](https://github.com/webstronauts/ex_unpoly/releases/tag/v3.0.0), 5 days ago) - Plug adapter for Unpoly, the unobtrusive JavaScript framework
 
 #### 🔨 Latest Pull Requests I published
