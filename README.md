@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) -  (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - An early attempt to create a beancount parser in Go (today)
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (4 days ago)
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (4 days ago)
 
 #### 🌱 My latest projects
 
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - An early attempt to create a beancount parser in Go
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data
 
 #### 🔭 Latest releases I've contributed to
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.1.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.1.0), today) - An early attempt to create a beancount parser in Go
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.66.0](https://github.com/webpro-nl/knip/releases/tag/5.66.0), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 4 days ago) - Stack middleware for handling Javascript Unpoly Framework requests.
-- [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) ([v3.0.0](https://github.com/webstronauts/ex_unpoly/releases/tag/v3.0.0), 6 days ago) - Plug adapter for Unpoly, the unobtrusive JavaScript framework
 
 #### 🔨 Latest Pull Requests I published
 
