@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - An early attempt to create a beancount parser in Go (today)
-- [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (4 days ago)
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (today)
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (4 days ago)
 
 #### 🌱 My latest projects
 
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - An early attempt to create a beancount parser in Go
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data
 
 #### 🔭 Latest releases I've contributed to
 
