@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(parser): add arithmetic expressions in amounts](https://github.com/robinvdvleuten/beancount/pull/44) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [feat: replace participle with custom recursive descent parser](https://github.com/robinvdvleuten/beancount/pull/43) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [feat: initial ledger functionality](https://github.com/robinvdvleuten/beancount/pull/42) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
-- [feat: add support for formatting beancount files](https://github.com/robinvdvleuten/beancount/pull/41) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 days ago)
