@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (1 day ago)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (4 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (2 days ago)
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (5 days ago)
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.66.3](https://github.com/webpro-nl/knip/releases/tag/5.66.3), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.4.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.4.0), 4 days ago) - Fast, lightweight Beancount parser and formatter written in Go
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.66.3](https://github.com/webpro-nl/knip/releases/tag/5.66.3), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.4.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.4.0), 5 days ago) - Fast, lightweight Beancount parser and formatter written in Go
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 1 week ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
 #### 🔨 Latest Pull Requests I published
