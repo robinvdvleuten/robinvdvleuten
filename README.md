@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (1 week ago)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 week ago)
-- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (4 weeks ago)
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) - Stack middleware for handling Javascript Unpoly Framework requests. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.69.0](https://github.com/webpro-nl/knip/releases/tag/5.69.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.69.0](https://github.com/webpro-nl/knip/releases/tag/5.69.0), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.5.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.5.0), 1 week ago) - Fast, lightweight Beancount parser and formatter written in Go
-- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 4 weeks ago) - Stack middleware for handling Javascript Unpoly Framework requests.
+- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 1 month ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
 #### 🔨 Latest Pull Requests I published
 
