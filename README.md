@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.70.2](https://github.com/webpro-nl/knip/releases/tag/5.70.2), 5 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.70.2](https://github.com/webpro-nl/knip/releases/tag/5.70.2), 6 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.5.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.5.0), 3 weeks ago) - Fast, lightweight Beancount parser and formatter written in Go
 - [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 1 month ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
