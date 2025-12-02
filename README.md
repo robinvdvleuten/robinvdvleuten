@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system (today)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (1 week ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 week ago)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go
 
 #### 🔭 Latest releases I've contributed to
 
+- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) ([v1.0.0](https://github.com/robinvdvleuten/lezer-beancount/releases/tag/v1.0.0), today) - Beancount grammar for the lezer parser system
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.71.0](https://github.com/webpro-nl/knip/releases/tag/5.71.0), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.5.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.5.0), 4 weeks ago) - Fast, lightweight Beancount parser and formatter written in Go
-- [webstronauts/php-unpoly](https://github.com/webstronauts/php-unpoly) ([v3.0.0](https://github.com/webstronauts/php-unpoly/releases/tag/v3.0.0), 1 month ago) - Stack middleware for handling Javascript Unpoly Framework requests.
 
 #### 🔨 Latest Pull Requests I published
 
