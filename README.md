@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (1 day ago)
+- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system (today)
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (1 day ago)
-- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (1 day ago)
 
 #### 🌱 My latest projects
 
