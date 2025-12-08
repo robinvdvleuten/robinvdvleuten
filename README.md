@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: bootstrap releases for path: .](https://github.com/robinvdvleuten/beancount/pull/82) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [feat: add support for beancount grammar to codemirror](https://github.com/robinvdvleuten/beancount/pull/79) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 week ago)
 - [feat: serve interactive editor through `web` command](https://github.com/robinvdvleuten/beancount/pull/45) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
-- [feat(parser): add arithmetic expressions in amounts](https://github.com/robinvdvleuten/beancount/pull/44) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
