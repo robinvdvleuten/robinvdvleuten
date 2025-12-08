@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.72.0](https://github.com/webpro-nl/knip/releases/tag/5.72.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) ([v1.1.0](https://github.com/robinvdvleuten/lezer-beancount/releases/tag/v1.1.0), 3 days ago) - Beancount grammar for the lezer parser system
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.71.0](https://github.com/webpro-nl/knip/releases/tag/5.71.0), 1 week ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.5.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.5.0), 1 month ago) - Fast, lightweight Beancount parser and formatter written in Go
 
 #### 🔨 Latest Pull Requests I published
