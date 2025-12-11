@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [test: add Playwright smoke tests for web UI](https://github.com/robinvdvleuten/beancount/pull/84) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore: bootstrap releases for path: .](https://github.com/robinvdvleuten/beancount/pull/82) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 days ago)
 - [feat: add support for beancount grammar to codemirror](https://github.com/robinvdvleuten/beancount/pull/79) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 week ago)
-- [feat: serve interactive editor through `web` command](https://github.com/robinvdvleuten/beancount/pull/45) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
