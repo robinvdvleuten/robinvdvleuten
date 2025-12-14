@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (2 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (today)
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (3 days ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (6 days ago)
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor: move commands to cli subpackage &#43; lipgloss based styling](https://github.com/robinvdvleuten/beancount/pull/85) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [test: add Playwright smoke tests for web UI](https://github.com/robinvdvleuten/beancount/pull/84) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 days ago)
 - [chore: bootstrap releases for path: .](https://github.com/robinvdvleuten/beancount/pull/82) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (6 days ago)
-- [feat: add support for beancount grammar to codemirror](https://github.com/robinvdvleuten/beancount/pull/79) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 week ago)
