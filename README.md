@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (today)
-- [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (3 days ago)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (6 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser and formatter written in Go (1 day ago)
+- [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (4 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.73.4](https://github.com/webpro-nl/knip/releases/tag/5.73.4), 2 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 6 days ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.73.4](https://github.com/webpro-nl/knip/releases/tag/5.73.4), 3 days ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 1 week ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 - [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) ([v1.1.0](https://github.com/robinvdvleuten/lezer-beancount/releases/tag/v1.1.0), 1 week ago) - Beancount grammar for the lezer parser system
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: move commands to cli subpackage &#43; lipgloss based styling](https://github.com/robinvdvleuten/beancount/pull/85) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
-- [test: add Playwright smoke tests for web UI](https://github.com/robinvdvleuten/beancount/pull/84) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 days ago)
-- [chore: bootstrap releases for path: .](https://github.com/robinvdvleuten/beancount/pull/82) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (6 days ago)
+- [refactor: move commands to cli subpackage &#43; lipgloss based styling](https://github.com/robinvdvleuten/beancount/pull/85) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
+- [test: add Playwright smoke tests for web UI](https://github.com/robinvdvleuten/beancount/pull/84) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 days ago)
+- [chore: bootstrap releases for path: .](https://github.com/robinvdvleuten/beancount/pull/82) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 week ago)
