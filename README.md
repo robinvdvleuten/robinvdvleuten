@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [test(fuzz): add native Go fuzzing for parser, lexer, and formatter](https://github.com/robinvdvleuten/beancount/pull/86) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [refactor: move commands to cli subpackage &#43; lipgloss based styling](https://github.com/robinvdvleuten/beancount/pull/85) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
 - [test: add Playwright smoke tests for web UI](https://github.com/robinvdvleuten/beancount/pull/84) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 days ago)
-- [chore: bootstrap releases for path: .](https://github.com/robinvdvleuten/beancount/pull/82) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 week ago)
