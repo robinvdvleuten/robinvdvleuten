@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (2 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (2 days ago)
 - [webstronauts/ex_unpoly](https://github.com/webstronauts/ex_unpoly) - Plug adapter for Unpoly, the unobtrusive JavaScript framework (6 days ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.74.0](https://github.com/webpro-nl/knip/releases/tag/5.74.0), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.75.0](https://github.com/webpro-nl/knip/releases/tag/5.75.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 1 week ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 - [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) ([v1.1.0](https://github.com/robinvdvleuten/lezer-beancount/releases/tag/v1.1.0), 1 week ago) - Beancount grammar for the lezer parser system
 
