@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.6.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.6.0), today) - Fast, lightweight Beancount parser, formatter and editor written in Go
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.75.1](https://github.com/webpro-nl/knip/releases/tag/5.75.1), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 1 week ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
+- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) ([v1.1.0](https://github.com/robinvdvleuten/lezer-beancount/releases/tag/v1.1.0), 1 week ago) - Beancount grammar for the lezer parser system
 
 #### 🔨 Latest Pull Requests I published
 
