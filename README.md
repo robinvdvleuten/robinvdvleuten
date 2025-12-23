@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([5.76.3](https://github.com/webpro-nl/knip/releases/tag/5.76.3), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([knip@5.77.0](https://github.com/webpro-nl/knip/releases/tag/knip%405.77.0), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.6.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.6.0), 5 days ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 2 weeks ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 
