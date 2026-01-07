@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.8.0](https://github.com/robinvdvleuten/beancount/pull/116) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.8.0](https://github.com/robinvdvleuten/beancount/pull/115) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [feat: support and preserve comma thousands separators](https://github.com/robinvdvleuten/beancount/pull/114) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
-- [chore(main): release 0.7.0](https://github.com/robinvdvleuten/beancount/pull/96) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 weeks ago)
