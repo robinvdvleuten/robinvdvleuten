@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 week ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 week ago)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: support and preserve comma thousands separators](https://github.com/robinvdvleuten/beancount/pull/114) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.7.0](https://github.com/robinvdvleuten/beancount/pull/96) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 weeks ago)
 - [chore(main): release 0.6.0](https://github.com/robinvdvleuten/beancount/pull/95) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 weeks ago)
-- [test(fuzz): add native Go fuzzing for parser, lexer, and formatter](https://github.com/robinvdvleuten/beancount/pull/86) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
