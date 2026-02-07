@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([knip@5.83.1](https://github.com/webpro-nl/knip/releases/tag/knip%405.83.1), today) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) ([knip@5.83.1](https://github.com/webpro-nl/knip/releases/tag/knip%405.83.1), 1 day ago) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.8.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.8.0), 3 weeks ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
 - [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 2 months ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 
@@ -22,4 +22,4 @@
 
 - [feat(web): auto reload on changes through --watch flag](https://github.com/robinvdvleuten/beancount/pull/121) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
 - [chore(main): release 0.9.0](https://github.com/robinvdvleuten/beancount/pull/120) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
-- [feat(web): render balance reports on frontend](https://github.com/robinvdvleuten/beancount/pull/117) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 weeks ago)
+- [feat(web): render balance reports on frontend](https://github.com/robinvdvleuten/beancount/pull/117) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
