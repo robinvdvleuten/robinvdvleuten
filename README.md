@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(web): auto reload on changes through --watch flag](https://github.com/robinvdvleuten/beancount/pull/121) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 weeks ago)
-- [chore(main): release 0.9.0](https://github.com/robinvdvleuten/beancount/pull/120) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 weeks ago)
+- [feat(web): auto reload on changes through --watch flag](https://github.com/robinvdvleuten/beancount/pull/121) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
+- [chore(main): release 0.9.0](https://github.com/robinvdvleuten/beancount/pull/120) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
 - [feat(web): render balance reports on frontend](https://github.com/robinvdvleuten/beancount/pull/117) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 month ago)
