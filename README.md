@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 month ago)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (3 months ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (4 months ago)
 
 #### 🌱 My latest projects
