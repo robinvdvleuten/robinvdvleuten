@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(web): auto reload on changes through --watch flag](https://github.com/robinvdvleuten/beancount/pull/121) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 months ago)
-- [chore(main): release 0.9.0](https://github.com/robinvdvleuten/beancount/pull/120) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 months ago)
-- [feat(web): render balance reports on frontend](https://github.com/robinvdvleuten/beancount/pull/117) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 months ago)
+- [feat(editor): save with Cmd&#43;S keyboard shortcut](https://github.com/robinvdvleuten/beancount/pull/211) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
+- [chore(main): release 0.10.0](https://github.com/robinvdvleuten/beancount/pull/210) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
+- [fix(web): report saved source errors and allow startup](https://github.com/robinvdvleuten/beancount/pull/209) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
