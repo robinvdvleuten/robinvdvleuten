@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(editor): autocomplete non-leading account segments](https://github.com/robinvdvleuten/beancount/pull/212) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [feat(editor): save with Cmd&#43;S keyboard shortcut](https://github.com/robinvdvleuten/beancount/pull/211) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.10.0](https://github.com/robinvdvleuten/beancount/pull/210) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
-- [fix(web): report saved source errors and allow startup](https://github.com/robinvdvleuten/beancount/pull/209) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
