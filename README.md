@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (4 days ago)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (5 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (5 days ago)
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (6 days ago)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (4 months ago)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(editor): autocomplete non-leading account segments](https://github.com/robinvdvleuten/beancount/pull/212) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (5 days ago)
-- [feat(editor): save with Cmd&#43;S keyboard shortcut](https://github.com/robinvdvleuten/beancount/pull/211) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (5 days ago)
-- [chore(main): release 0.10.0](https://github.com/robinvdvleuten/beancount/pull/210) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (5 days ago)
+- [fix(editor): autocomplete non-leading account segments](https://github.com/robinvdvleuten/beancount/pull/212) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (6 days ago)
+- [feat(editor): save with Cmd&#43;S keyboard shortcut](https://github.com/robinvdvleuten/beancount/pull/211) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (6 days ago)
+- [chore(main): release 0.10.0](https://github.com/robinvdvleuten/beancount/pull/210) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (6 days ago)
