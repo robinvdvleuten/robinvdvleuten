@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (today)
-- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (today)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (6 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 day ago)
+- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(main): release 0.6.0](https://github.com/robinvdvleuten/dsmr/pull/52) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (today)
-- [feat: add telegram text marshaling](https://github.com/robinvdvleuten/dsmr/pull/51) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (today)
+- [chore(main): release 0.6.0](https://github.com/robinvdvleuten/dsmr/pull/52) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (1 day ago)
+- [feat: add telegram text marshaling](https://github.com/robinvdvleuten/dsmr/pull/51) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (1 day ago)
 - [fix(editor): autocomplete non-leading account segments](https://github.com/robinvdvleuten/beancount/pull/212) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 week ago)
