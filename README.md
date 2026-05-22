@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 day ago)
-- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (1 day ago)
 - [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: redirect alias hosts to canonical domain](https://github.com/mijnverbruik/p1meter.dev/pull/1) on [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) (today)
 - [chore(main): release 0.6.0](https://github.com/robinvdvleuten/dsmr/pull/52) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (1 week ago)
 - [feat: add telegram text marshaling](https://github.com/robinvdvleuten/dsmr/pull/51) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (1 week ago)
-- [fix(editor): autocomplete non-leading account segments](https://github.com/robinvdvleuten/beancount/pull/212) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 weeks ago)
