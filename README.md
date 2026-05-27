@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release addressing 2.0.0](https://github.com/robinvdvleuten/addressing/pull/22) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (today)
 - [chore(main): release 2.0.0](https://github.com/robinvdvleuten/addressing/pull/21) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (today)
 - [chore(main): release 2.0.0](https://github.com/robinvdvleuten/addressing/pull/20) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (today)
-- [chore(main): release 1.0.0](https://github.com/robinvdvleuten/php-nntp/pull/41) on [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) (today)
