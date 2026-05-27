@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
 - [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) - Client for communicating with servers throught the Network News Transfer Protocol (NNTP) protocol. (today)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (today)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 2.0.0](https://github.com/robinvdvleuten/addressing/pull/21) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (today)
+- [chore(main): release 2.0.0](https://github.com/robinvdvleuten/addressing/pull/20) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (today)
 - [chore(main): release 1.0.0](https://github.com/robinvdvleuten/php-nntp/pull/41) on [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) (today)
-- [feat: redirect alias hosts to canonical domain](https://github.com/mijnverbruik/p1meter.dev/pull/1) on [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) (5 days ago)
-- [chore(main): release 0.6.0](https://github.com/robinvdvleuten/dsmr/pull/52) on [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) (2 weeks ago)
