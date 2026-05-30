@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) -  (today)
 - [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) - Client for communicating with servers throught the Network News Transfer Protocol (NNTP) protocol. (3 days ago)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (3 days ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (3 days ago)
 
 #### 🌱 My latest projects
 
+- [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) - 
 - [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺
-- [robinvdvleuten/dsmr](https://github.com/robinvdvleuten/dsmr) - A parser for DSMR telegram data in Go
 
 #### 🔭 Latest releases I've contributed to
 
