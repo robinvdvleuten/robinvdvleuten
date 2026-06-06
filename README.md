@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) -  (6 days ago)
+- [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) -  (1 week ago)
 - [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) - Client for communicating with servers throught the Network News Transfer Protocol (NNTP) protocol. (1 week ago)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (1 week ago)
 
@@ -16,7 +16,7 @@
 
 - [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) ([v1.0.0](https://github.com/robinvdvleuten/php-nntp/releases/tag/v1.0.0), 1 week ago) - Client for communicating with servers throught the Network News Transfer Protocol (NNTP) protocol.
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.9.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.9.0), 2 months ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
-- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 5 months ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) ([v3.1.0](https://github.com/robinvdvleuten/json-from-script/releases/tag/v3.1.0), 6 months ago) - 👮🏻 Tiny JSON parser for your CSP aware script tags.
 
 #### 🔨 Latest Pull Requests I published
 
