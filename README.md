@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (today)
-- [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) -  (1 week ago)
+- [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams (today)
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 week ago)
 
 #### 🌱 My latest projects
 
-- [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) - 
+- [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams
 - [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺
 
