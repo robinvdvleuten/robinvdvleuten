@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (today)
 - [robinvdvleuten/m3u8-downloader](https://github.com/robinvdvleuten/m3u8-downloader) -  (1 week ago)
-- [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) - Client for communicating with servers throught the Network News Transfer Protocol (NNTP) protocol. (1 week ago)
-- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (1 week ago)
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 week ago)
 
 #### 🌱 My latest projects
 
