@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (today)
-- [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams (4 days ago)
+- [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams (today)
 
 #### 🌱 My latest projects
 
