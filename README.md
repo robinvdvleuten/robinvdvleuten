@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 week ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (1 week ago)
 - [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams (1 week ago)
 
