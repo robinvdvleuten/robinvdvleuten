@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 week ago)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 week ago)
-- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (2 weeks ago)
+- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: preserve decimal balance precision in API and UI](https://github.com/robinvdvleuten/beancount/pull/246) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 weeks ago)
-- [feat: add route for viewing balance sheet](https://github.com/robinvdvleuten/beancount/pull/245) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 weeks ago)
+- [feat: preserve decimal balance precision in API and UI](https://github.com/robinvdvleuten/beancount/pull/246) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
+- [feat: add route for viewing balance sheet](https://github.com/robinvdvleuten/beancount/pull/245) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
 - [chore(main): release 1.0.0](https://github.com/robinvdvleuten/hlsdl/pull/1) on [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) (3 weeks ago)
