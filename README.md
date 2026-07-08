@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add Brevo driver support](https://github.com/spatie/laravel-newsletter/pull/350) on [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) (today)
 - [feat: preserve decimal balance precision in API and UI](https://github.com/robinvdvleuten/beancount/pull/246) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
 - [feat: add route for viewing balance sheet](https://github.com/robinvdvleuten/beancount/pull/245) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
-- [chore(main): release 1.0.0](https://github.com/robinvdvleuten/hlsdl/pull/1) on [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) (1 month ago)
