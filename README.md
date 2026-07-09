@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (4 days ago)
-- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (4 days ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (5 days ago)
+- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (5 days ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Brevo driver support](https://github.com/spatie/laravel-newsletter/pull/350) on [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) (today)
+- [Add Brevo driver support](https://github.com/spatie/laravel-newsletter/pull/350) on [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) (1 day ago)
 - [feat: preserve decimal balance precision in API and UI](https://github.com/robinvdvleuten/beancount/pull/246) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
 - [feat: add route for viewing balance sheet](https://github.com/robinvdvleuten/beancount/pull/245) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 weeks ago)
