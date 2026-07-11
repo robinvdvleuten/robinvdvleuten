@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (6 days ago)
-- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (6 days ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 week ago)
+- [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(main): release 0.11.0](https://github.com/robinvdvleuten/beancount/pull/289) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
-- [Add Brevo driver support](https://github.com/spatie/laravel-newsletter/pull/350) on [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) (2 days ago)
+- [chore(main): release 0.11.0](https://github.com/robinvdvleuten/beancount/pull/289) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
+- [Add Brevo driver support](https://github.com/spatie/laravel-newsletter/pull/350) on [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) (3 days ago)
 - [feat: preserve decimal balance precision in API and UI](https://github.com/robinvdvleuten/beancount/pull/246) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (4 weeks ago)
