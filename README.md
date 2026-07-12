@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v1.1.0](https://github.com/mijnverbruik/dsmr/releases/tag/v1.1.0), today) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.11.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.11.0), 1 day ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
 - [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) ([v1.0.0](https://github.com/robinvdvleuten/hlsdl/releases/tag/v1.0.0), 1 month ago) - A small Go CLI for downloading HSL streams
-- [robinvdvleuten/php-nntp](https://github.com/robinvdvleuten/php-nntp) ([v1.0.0](https://github.com/robinvdvleuten/php-nntp/releases/tag/v1.0.0), 1 month ago) - Client for communicating with servers throught the Network News Transfer Protocol (NNTP) protocol.
 
 #### 🔨 Latest Pull Requests I published
 
