@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
 - [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (4 days ago)
-- [webstronauts/ploi-deploy-action](https://github.com/webstronauts/ploi-deploy-action) - A Github Action to streamline deploys through ploi.io (4 days ago)
 
 #### 🌱 My latest projects
 
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript
 - [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript
 - [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams
-- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system
 
 #### 🔭 Latest releases I've contributed to
 
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) ([v0.1.0](https://github.com/robinvdvleuten/sjabloon/releases/tag/v0.1.0), today) - Tiny, CSP-safe template engine for JavaScript
 - [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) ([v0.1.0](https://github.com/robinvdvleuten/xprsn/releases/tag/v0.1.0), today) - Tiny and CSP-safe expression language for JavaScript
 - [webstronauts/ploi-deploy-action](https://github.com/webstronauts/ploi-deploy-action) ([v0.1.0](https://github.com/webstronauts/ploi-deploy-action/releases/tag/v0.1.0), 4 days ago) - A Github Action to streamline deploys through ploi.io
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v1.1.0](https://github.com/mijnverbruik/dsmr/releases/tag/v1.1.0), 5 days ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 
 #### 🔨 Latest Pull Requests I published
 
