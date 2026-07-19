@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.4.0](https://github.com/robinvdvleuten/sjabloon/pull/3) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (today)
 - [chore(main): release 0.3.0](https://github.com/robinvdvleuten/sjabloon/pull/2) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (today)
 - [chore(main): release 3.0.1](https://github.com/robinvdvleuten/shvl/pull/75) on [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) (1 day ago)
-- [chore(main): release 0.2.0](https://github.com/robinvdvleuten/padvinder/pull/3) on [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) (1 day ago)
