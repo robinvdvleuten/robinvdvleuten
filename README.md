@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (1 day ago)
-- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
-- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (2 days ago)
+- [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - Get and set dot-notated properties within an object. (today)
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
+- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (today)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.4.1](https://github.com/robinvdvleuten/xprsn/pull/7) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
+- [chore: replace microbundle with tsdown](https://github.com/robinvdvleuten/xprsn/pull/6) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
 - [test: add fuzz suite for compile/eval safety](https://github.com/robinvdvleuten/xprsn/pull/5) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
-- [chore(main): release 0.4.0](https://github.com/robinvdvleuten/xprsn/pull/4) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (1 day ago)
-- [chore(main): release 0.4.0](https://github.com/robinvdvleuten/sjabloon/pull/3) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (1 day ago)
