@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [test: add fuzz suite for compile/eval safety](https://github.com/robinvdvleuten/xprsn/pull/5) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
 - [chore(main): release 0.4.0](https://github.com/robinvdvleuten/xprsn/pull/4) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (1 day ago)
 - [chore(main): release 0.4.0](https://github.com/robinvdvleuten/sjabloon/pull/3) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (1 day ago)
-- [chore(main): release 0.3.0](https://github.com/robinvdvleuten/sjabloon/pull/2) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (1 day ago)
