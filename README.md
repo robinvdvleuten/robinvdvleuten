@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.4.1](https://github.com/robinvdvleuten/sjabloon/pull/4) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (today)
 - [chore(main): release 0.4.1](https://github.com/robinvdvleuten/xprsn/pull/7) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
 - [chore: replace microbundle with tsdown](https://github.com/robinvdvleuten/xprsn/pull/6) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
-- [test: add fuzz suite for compile/eval safety](https://github.com/robinvdvleuten/xprsn/pull/5) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
