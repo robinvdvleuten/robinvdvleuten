@@ -4,7 +4,7 @@
 
 - [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - Get and set dot-notated properties within an object. (today)
 - [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
-- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (today)
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (today)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.2.1](https://github.com/robinvdvleuten/padvinder/pull/4) on [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) (today)
 - [chore(main): release 0.4.1](https://github.com/robinvdvleuten/sjabloon/pull/4) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (today)
 - [chore(main): release 0.4.1](https://github.com/robinvdvleuten/xprsn/pull/7) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
-- [chore: replace microbundle with tsdown](https://github.com/robinvdvleuten/xprsn/pull/6) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
