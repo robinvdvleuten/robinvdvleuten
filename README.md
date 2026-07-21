@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - Get and set dot-notated properties within an object. (1 day ago)
-- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
-- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (1 day ago)
+- [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (1 day ago)
 
 #### 🌱 My latest projects
 
