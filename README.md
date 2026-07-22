@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.3.1](https://github.com/robinvdvleuten/padvinder/pull/6) on [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) (today)
 - [chore(main): release 0.8.0](https://github.com/robinvdvleuten/xprsn/pull/11) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
 - [chore(main): release 0.7.0](https://github.com/robinvdvleuten/xprsn/pull/10) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
-- [chore(main): release 0.6.0](https://github.com/robinvdvleuten/xprsn/pull/9) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (today)
