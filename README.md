@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (1 day ago)
-- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
-- [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (1 day ago)
+- [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (today)
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
+- [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
 
 #### 🌱 My latest projects
 
