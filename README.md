@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (1 day ago)
-- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
-- [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (1 day ago)
+- [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (today)
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
+- [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.5.1](https://github.com/robinvdvleuten/sjabloon/pull/8) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (today)
 - [chore(main): release 0.3.1](https://github.com/robinvdvleuten/padvinder/pull/6) on [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) (2 days ago)
 - [chore(main): release 0.8.0](https://github.com/robinvdvleuten/xprsn/pull/11) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (2 days ago)
-- [chore(main): release 0.7.0](https://github.com/robinvdvleuten/xprsn/pull/10) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (2 days ago)
