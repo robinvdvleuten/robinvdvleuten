@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (4 days ago)
-- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (4 days ago)
-- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (4 days ago)
+- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (5 days ago)
+- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (5 days ago)
+- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [getquario/sjabloon](https://github.com/getquario/sjabloon) ([v0.6.0](https://github.com/getquario/sjabloon/releases/tag/v0.6.0), 4 days ago) - Tiny, CSP-safe template engine for JavaScript
-- [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.3.1](https://github.com/getquario/padvinder/releases/tag/v0.3.1), 4 days ago) - Tiny, CSP-safe JSONPath engine for JavaScript
-- [getquario/xprsn](https://github.com/getquario/xprsn) ([v0.8.0](https://github.com/getquario/xprsn/releases/tag/v0.8.0), 6 days ago) - Tiny and CSP-safe expression language for JavaScript
+- [getquario/sjabloon](https://github.com/getquario/sjabloon) ([v0.6.0](https://github.com/getquario/sjabloon/releases/tag/v0.6.0), 5 days ago) - Tiny, CSP-safe template engine for JavaScript
+- [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.3.1](https://github.com/getquario/padvinder/releases/tag/v0.3.1), 5 days ago) - Tiny, CSP-safe JSONPath engine for JavaScript
+- [getquario/xprsn](https://github.com/getquario/xprsn) ([v0.8.0](https://github.com/getquario/xprsn/releases/tag/v0.8.0), 1 week ago) - Tiny and CSP-safe expression language for JavaScript
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(main): release 0.6.0](https://github.com/getquario/sjabloon/pull/9) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (4 days ago)
-- [chore(main): release 0.5.1](https://github.com/getquario/sjabloon/pull/8) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (4 days ago)
-- [chore(main): release 0.3.1](https://github.com/getquario/padvinder/pull/6) on [getquario/padvinder](https://github.com/getquario/padvinder) (6 days ago)
+- [chore(main): release 0.6.0](https://github.com/getquario/sjabloon/pull/9) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (5 days ago)
+- [chore(main): release 0.5.1](https://github.com/getquario/sjabloon/pull/8) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (5 days ago)
+- [chore(main): release 0.3.1](https://github.com/getquario/padvinder/pull/6) on [getquario/padvinder](https://github.com/getquario/padvinder) (1 week ago)
