@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
-- [getquario/treffer](https://github.com/getquario/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (6 days ago)
-- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (6 days ago)
+- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
+- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (today)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(main): release 0.7.1](https://github.com/getquario/sjabloon/pull/11) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (today)
-- [chore(main): release 0.7.0](https://github.com/getquario/sjabloon/pull/10) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (1 day ago)
-- [chore(main): release 0.6.0](https://github.com/getquario/sjabloon/pull/9) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (6 days ago)
+- [chore(main): release 0.3.2](https://github.com/getquario/padvinder/pull/9) on [getquario/padvinder](https://github.com/getquario/padvinder) (today)
+- [chore(main): release 0.3.0](https://github.com/getquario/treffer/pull/6) on [getquario/treffer](https://github.com/getquario/treffer) (today)
+- [chore(main): release 0.9.0](https://github.com/getquario/xprsn/pull/14) on [getquario/xprsn](https://github.com/getquario/xprsn) (today)
