@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
-- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
-- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (today)
+- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
+- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (1 day ago)
+- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [getquario/sjabloon](https://github.com/getquario/sjabloon) ([v0.7.0](https://github.com/getquario/sjabloon/releases/tag/v0.7.0), today) - Tiny, CSP-safe template engine for JavaScript
-- [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.3.1](https://github.com/getquario/padvinder/releases/tag/v0.3.1), 6 days ago) - Tiny, CSP-safe JSONPath engine for JavaScript
+- [getquario/sjabloon](https://github.com/getquario/sjabloon) ([v0.7.0](https://github.com/getquario/sjabloon/releases/tag/v0.7.0), 1 day ago) - Tiny, CSP-safe template engine for JavaScript
+- [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.3.1](https://github.com/getquario/padvinder/releases/tag/v0.3.1), 1 week ago) - Tiny, CSP-safe JSONPath engine for JavaScript
 - [getquario/xprsn](https://github.com/getquario/xprsn) ([v0.8.0](https://github.com/getquario/xprsn/releases/tag/v0.8.0), 1 week ago) - Tiny and CSP-safe expression language for JavaScript
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(main): release 0.3.2](https://github.com/getquario/padvinder/pull/9) on [getquario/padvinder](https://github.com/getquario/padvinder) (today)
-- [chore(main): release 0.3.0](https://github.com/getquario/treffer/pull/6) on [getquario/treffer](https://github.com/getquario/treffer) (today)
-- [chore(main): release 0.9.0](https://github.com/getquario/xprsn/pull/14) on [getquario/xprsn](https://github.com/getquario/xprsn) (today)
+- [chore(main): release 0.3.2](https://github.com/getquario/padvinder/pull/9) on [getquario/padvinder](https://github.com/getquario/padvinder) (1 day ago)
+- [chore(main): release 0.3.0](https://github.com/getquario/treffer/pull/6) on [getquario/treffer](https://github.com/getquario/treffer) (1 day ago)
+- [chore(main): release 0.9.0](https://github.com/getquario/xprsn/pull/14) on [getquario/xprsn](https://github.com/getquario/xprsn) (1 day ago)
