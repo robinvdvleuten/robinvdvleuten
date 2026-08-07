@@ -15,7 +15,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) ([v0.7.0](https://github.com/getquario/sjabloon/releases/tag/v0.7.0), 1 week ago) - Tiny, CSP-safe template engine for JavaScript
-- [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.3.1](https://github.com/getquario/padvinder/releases/tag/v0.3.1), 1 week ago) - Tiny, CSP-safe JSONPath engine for JavaScript
+- [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.3.1](https://github.com/getquario/padvinder/releases/tag/v0.3.1), 2 weeks ago) - Tiny, CSP-safe JSONPath engine for JavaScript
 - [getquario/xprsn](https://github.com/getquario/xprsn) ([v0.8.0](https://github.com/getquario/xprsn/releases/tag/v0.8.0), 2 weeks ago) - Tiny and CSP-safe expression language for JavaScript
 
 #### 🔨 Latest Pull Requests I published
