@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (today)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
 - [getquario/treffer](https://github.com/getquario/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (1 day ago)
-- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (1 day ago)
 
 #### 🌱 My latest projects
 
