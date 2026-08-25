@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(plugins): mark size-limit presets as used from the manifest](https://github.com/fallow-rs/fallow/pull/2413) on [fallow-rs/fallow](https://github.com/fallow-rs/fallow) (today)
 - [chore(main): release 0.4.0](https://github.com/getquario/padvinder/pull/17) on [getquario/padvinder](https://github.com/getquario/padvinder) (1 week ago)
 - [chore(main): release 0.4.0](https://github.com/getquario/padvinder/pull/9) on [getquario/padvinder](https://github.com/getquario/padvinder) (3 weeks ago)
-- [chore(main): release 0.3.0](https://github.com/getquario/treffer/pull/6) on [getquario/treffer](https://github.com/getquario/treffer) (3 weeks ago)
