@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.22.0](https://github.com/fallow-rs/fallow/releases/tag/v3.22.0), today) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic.
 - [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.9.0](https://github.com/getquario/padvinder/releases/tag/v0.9.0), 1 day ago) - Tiny, CSP-safe JSONPath engine for JavaScript
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) ([v0.12.0](https://github.com/getquario/sjabloon/releases/tag/v0.12.0), 1 day ago) - Tiny, CSP-safe template engine for JavaScript
-- [getquario/treffer](https://github.com/getquario/treffer) ([v0.5.0](https://github.com/getquario/treffer/releases/tag/v0.5.0), 1 day ago) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript
 
 #### 🔨 Latest Pull Requests I published
 
