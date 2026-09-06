@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [ci: sync dependabot config](https://github.com/getquario/padvinder/pull/30) on [getquario/padvinder](https://github.com/getquario/padvinder) (today)
 - [ci: sync dependabot config](https://github.com/getquario/waarmerk/pull/2) on [getquario/waarmerk](https://github.com/getquario/waarmerk) (today)
 - [ci: sync dependabot config](https://github.com/getquario/treffer/pull/19) on [getquario/treffer](https://github.com/getquario/treffer) (today)
-- [ci: sync dependabot config](https://github.com/getquario/sjabloon/pull/28) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (today)
