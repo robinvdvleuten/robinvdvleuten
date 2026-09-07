@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.23.0](https://github.com/fallow-rs/fallow/releases/tag/v3.23.0), today) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic.
 - [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) ([v3.0.2](https://github.com/robinvdvleuten/shvl/releases/tag/v3.0.2), today) - Get and set dot-notated properties within an object.
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.22.0](https://github.com/fallow-rs/fallow/releases/tag/v3.22.0), 6 days ago) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic.
 - [getquario/padvinder](https://github.com/getquario/padvinder) ([v0.9.0](https://github.com/getquario/padvinder/releases/tag/v0.9.0), 1 week ago) - Tiny, CSP-safe JSONPath engine for JavaScript
 
 #### 🔨 Latest Pull Requests I published
