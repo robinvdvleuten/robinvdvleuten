@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/json-from-script](https://github.com/robinvdvleuten/json-from-script) - 👮🏻 Tiny JSON parser for your CSP aware script tags. (today)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (2 days ago)
 - [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (2 days ago)
-- [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (2 days ago)
 
 #### 🌱 My latest projects
 
