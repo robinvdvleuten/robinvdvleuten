@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
+- [getquario/waarmerk](https://github.com/getquario/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (today)
 - [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (1 day ago)
 - [getquario/treffer](https://github.com/getquario/treffer) - Tiny, bounded RFC 9485 I-Regexp matcher for JavaScript (1 day ago)
 
