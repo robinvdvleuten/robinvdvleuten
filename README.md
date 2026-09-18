@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [getquario/werkmap](https://github.com/getquario/werkmap) ([v0.4.0](https://github.com/getquario/werkmap/releases/tag/v0.4.0), today) - Tiny, CSP-safe OOXML spreadsheet writer
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) ([v2.1.0](https://github.com/robinvdvleuten/addressing/releases/tag/v2.1.0), today) - Addressing library powered by CLDR and Google&#39;s address data
-- [getquario/werkmap](https://github.com/getquario/werkmap) ([v0.3.0](https://github.com/getquario/werkmap/releases/tag/v0.3.0), today) - Tiny, CSP-safe OOXML spreadsheet writer
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.27.0](https://github.com/fallow-rs/fallow/releases/tag/v3.27.0), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic.
 
 #### 🔨 Latest Pull Requests I published
