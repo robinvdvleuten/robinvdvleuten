@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
-- [getquario/werkmap](https://github.com/getquario/werkmap) - Tiny, CSP-safe OOXML spreadsheet writer (today)
-- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (3 days ago)
+- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
+- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (today)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.9.1](https://github.com/getquario/padvinder/pull/35) on [getquario/padvinder](https://github.com/getquario/padvinder) (today)
+- [chore(main): release 0.13.1](https://github.com/getquario/sjabloon/pull/35) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (today)
 - [chore(main): release 0.4.0](https://github.com/getquario/werkmap/pull/6) on [getquario/werkmap](https://github.com/getquario/werkmap) (today)
-- [chore(main): release 2.1.0](https://github.com/robinvdvleuten/addressing/pull/40) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (today)
-- [chore(main): release 0.3.0](https://github.com/getquario/werkmap/pull/5) on [getquario/werkmap](https://github.com/getquario/werkmap) (today)
