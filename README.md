@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [ci: sync dependabot config](https://github.com/getquario/werkmap/pull/9) on [getquario/werkmap](https://github.com/getquario/werkmap) (today)
 - [chore(main): release 0.5.0](https://github.com/getquario/werkmap/pull/8) on [getquario/werkmap](https://github.com/getquario/werkmap) (1 day ago)
 - [chore(main): release 0.5.0](https://github.com/getquario/werkmap/pull/7) on [getquario/werkmap](https://github.com/getquario/werkmap) (1 day ago)
-- [chore(main): release 0.9.1](https://github.com/getquario/padvinder/pull/35) on [getquario/padvinder](https://github.com/getquario/padvinder) (2 days ago)
