@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (3 days ago)
 - [getquario/xprsn](https://github.com/getquario/xprsn) - Tiny and CSP-safe expression language for JavaScript (3 days ago)
-- [getquario/werkmap](https://github.com/getquario/werkmap) - Tiny, CSP-safe OOXML spreadsheet writer (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.11.1](https://github.com/robinvdvleuten/beancount/pull/403) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.14.0](https://github.com/getquario/sjabloon/pull/36) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (3 days ago)
 - [chore(main): release 0.12.0](https://github.com/getquario/xprsn/pull/34) on [getquario/xprsn](https://github.com/getquario/xprsn) (3 days ago)
-- [chore(main): release 0.8.0](https://github.com/getquario/werkmap/pull/12) on [getquario/werkmap](https://github.com/getquario/werkmap) (4 days ago)
