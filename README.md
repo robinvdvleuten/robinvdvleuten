@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(main): release 0.11.1](https://github.com/robinvdvleuten/beancount/pull/403) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
+- [chore(main): release 0.12.0](https://github.com/robinvdvleuten/beancount/pull/403) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.14.0](https://github.com/getquario/sjabloon/pull/36) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (3 days ago)
 - [chore(main): release 0.12.0](https://github.com/getquario/xprsn/pull/34) on [getquario/xprsn](https://github.com/getquario/xprsn) (3 days ago)
