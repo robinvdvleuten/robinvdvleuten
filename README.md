@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(ledger): use a pad even when its balance assertion fails](https://github.com/robinvdvleuten/beancount/pull/453) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
-- [fix(ledger): book each currency group on its own, like beancount v2](https://github.com/robinvdvleuten/beancount/pull/451) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
-- [fix(cli): report errors on bean-check&#39;s lines](https://github.com/robinvdvleuten/beancount/pull/448) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
+- [docs: record typed handler deltas as out of scope](https://github.com/robinvdvleuten/beancount/pull/475) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
+- [fix(parser): accept a cost that gives only its currency, like beancount](https://github.com/robinvdvleuten/beancount/pull/459) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
+- [ci: install beancount 2.3.6 so the compliance suites run](https://github.com/robinvdvleuten/beancount/pull/457) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
