@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 day ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
 - [getquario/werkmap](https://github.com/getquario/werkmap) - Tiny, CSP-safe OOXML spreadsheet writer (3 days ago)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 1.0.0](https://github.com/robinvdvleuten/beancount/pull/496) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [docs: record typed handler deltas as out of scope](https://github.com/robinvdvleuten/beancount/pull/475) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 days ago)
 - [fix(parser): accept a cost that gives only its currency, like beancount](https://github.com/robinvdvleuten/beancount/pull/459) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 days ago)
-- [ci: install beancount 2.3.6 so the compliance suites run](https://github.com/robinvdvleuten/beancount/pull/457) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (3 days ago)
