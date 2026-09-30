@@ -21,5 +21,5 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Add the missing has_children flag for Ñuble (CL).](https://github.com/commerceguys/addressing/pull/252) on [commerceguys/addressing](https://github.com/commerceguys/addressing) (1 day ago)
-- [chore(main): release 2.1.1](https://github.com/robinvdvleuten/addressing/pull/55) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (1 day ago)
+- [chore(main): release 2.2.0](https://github.com/robinvdvleuten/addressing/pull/55) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (1 day ago)
 - [chore(main): release 0.15.0](https://github.com/robinvdvleuten/beancount/pull/543) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
