@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 day ago)
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 day ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.31.0](https://github.com/fallow-rs/fallow/releases/tag/v3.31.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.14.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.14.0), 1 day ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.30.0](https://github.com/fallow-rs/fallow/releases/tag/v3.30.0), 4 days ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [getquario/werkmap](https://github.com/getquario/werkmap) ([v0.9.0](https://github.com/getquario/werkmap/releases/tag/v0.9.0), 5 days ago) - Tiny, CSP-safe OOXML spreadsheet writer
 
 #### 🔨 Latest Pull Requests I published
