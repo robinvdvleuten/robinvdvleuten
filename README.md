@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (today)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 day ago)
+- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) - Addressing library powered by CLDR and Google&#39;s address data (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.31.0](https://github.com/fallow-rs/fallow/releases/tag/v3.31.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.14.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.14.0), 1 day ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
-- [getquario/werkmap](https://github.com/getquario/werkmap) ([v0.9.0](https://github.com/getquario/werkmap/releases/tag/v0.9.0), 5 days ago) - Tiny, CSP-safe OOXML spreadsheet writer
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.31.0](https://github.com/fallow-rs/fallow/releases/tag/v3.31.0), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.14.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.14.0), 2 days ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
+- [getquario/werkmap](https://github.com/getquario/werkmap) ([v0.9.0](https://github.com/getquario/werkmap/releases/tag/v0.9.0), 6 days ago) - Tiny, CSP-safe OOXML spreadsheet writer
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add the missing has_children flag for Ñuble (CL).](https://github.com/commerceguys/addressing/pull/252) on [commerceguys/addressing](https://github.com/commerceguys/addressing) (1 day ago)
-- [chore(main): release 2.2.0](https://github.com/robinvdvleuten/addressing/pull/55) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (1 day ago)
-- [chore(main): release 0.15.0](https://github.com/robinvdvleuten/beancount/pull/543) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (1 day ago)
+- [Add the missing has_children flag for Ñuble (CL).](https://github.com/commerceguys/addressing/pull/252) on [commerceguys/addressing](https://github.com/commerceguys/addressing) (2 days ago)
+- [chore(main): release 2.2.0](https://github.com/robinvdvleuten/addressing/pull/55) on [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) (2 days ago)
+- [chore(main): release 0.15.0](https://github.com/robinvdvleuten/beancount/pull/543) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 days ago)
