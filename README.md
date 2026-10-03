@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.17.0](https://github.com/robinvdvleuten/beancount/pull/673) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.16.0](https://github.com/robinvdvleuten/beancount/pull/640) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore: version package](https://github.com/getquario/mcp/pull/5) on [getquario/mcp](https://github.com/getquario/mcp) (1 day ago)
-- [feat: name an image by path with $image](https://github.com/getquario/mcp/pull/4) on [getquario/mcp](https://github.com/getquario/mcp) (1 day ago)
