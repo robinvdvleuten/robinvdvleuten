@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 day ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
+- [getquario/meta](https://github.com/getquario/meta) - Quario&#39;s meta configuration files (1 day ago)
 - [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 day ago)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.15.1](https://github.com/robinvdvleuten/beancount/pull/640) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore: version package](https://github.com/getquario/mcp/pull/5) on [getquario/mcp](https://github.com/getquario/mcp) (1 day ago)
 - [feat: name an image by path with $image](https://github.com/getquario/mcp/pull/4) on [getquario/mcp](https://github.com/getquario/mcp) (1 day ago)
-- [chore(main): release 0.1.0](https://github.com/getquario/mcp/pull/3) on [getquario/mcp](https://github.com/getquario/mcp) (2 days ago)
