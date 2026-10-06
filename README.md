@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [commerceguys/addressing](https://github.com/commerceguys/addressing) - A PHP addressing library, powered by CLDR and Google&#39;s address data. (1 day ago)
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (3 days ago)
 
 #### 🌱 My latest projects
