@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.32.0](https://github.com/fallow-rs/fallow/releases/tag/v3.32.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.17.0](https://github.com/robinvdvleuten/beancount/releases/tag/v0.17.0), 1 day ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
 - [getquario/mcp](https://github.com/getquario/mcp) ([v0.2.1](https://github.com/getquario/mcp/releases/tag/v0.2.1), 1 day ago) - An MCP server that exposes quario as validate and render tools
-- [robinvdvleuten/addressing](https://github.com/robinvdvleuten/addressing) ([v2.2.0](https://github.com/robinvdvleuten/addressing/releases/tag/v2.2.0), 6 days ago) - Addressing library powered by CLDR and Google&#39;s address data
 
 #### 🔨 Latest Pull Requests I published
 
