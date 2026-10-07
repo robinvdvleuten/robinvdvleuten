@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [getquario/meta](https://github.com/getquario/meta) - Quario&#39;s meta configuration files (1 day ago)
 - [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 day ago)
 
