@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
 - [getquario/meta](https://github.com/getquario/meta) - Quario&#39;s meta configuration files (2 days ago)
 - [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (2 days ago)
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.17.1](https://github.com/robinvdvleuten/beancount/pull/717) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [chore(main): release 0.17.1](https://github.com/robinvdvleuten/beancount/pull/710) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (2 days ago)
 - [chore: version package](https://github.com/getquario/mcp/pull/6) on [getquario/mcp](https://github.com/getquario/mcp) (2 days ago)
-- [chore(main): release 0.17.0](https://github.com/robinvdvleuten/beancount/pull/673) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (5 days ago)
