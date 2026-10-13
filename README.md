@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 day ago)
 - [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 day ago)
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 day ago)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 day ago)
 
 #### 🌱 My latest projects
 
