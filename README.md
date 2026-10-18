@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.34.0](https://github.com/fallow-rs/fallow/releases/tag/v3.34.0), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.34.1](https://github.com/fallow-rs/fallow/releases/tag/v3.34.1), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [getquario/mcp](https://github.com/getquario/mcp) ([v0.3.0](https://github.com/getquario/mcp/releases/tag/v0.3.0), 6 days ago) - An MCP server that exposes quario as validate and render tools
 - [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.17.2](https://github.com/robinvdvleuten/beancount/releases/tag/v0.17.2), 6 days ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
 
