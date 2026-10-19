@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel  (today)
-- [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 week ago)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 week ago)
+- [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 week ago)
 
 #### 🌱 My latest projects
 
