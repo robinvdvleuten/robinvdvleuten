@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (1 week ago)
+- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel  (today)
 - [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 week ago)
 - [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) ([5.5.0](https://github.com/spatie/laravel-newsletter/releases/tag/5.5.0), today) - Manage newsletters in Laravel 
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.34.1](https://github.com/fallow-rs/fallow/releases/tag/v3.34.1), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [getquario/mcp](https://github.com/getquario/mcp) ([v0.3.0](https://github.com/getquario/mcp/releases/tag/v0.3.0), 1 week ago) - An MCP server that exposes quario as validate and render tools
-- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) ([v0.17.2](https://github.com/robinvdvleuten/beancount/releases/tag/v0.17.2), 1 week ago) - Fast, lightweight Beancount parser, formatter and editor written in Go
 
 #### 🔨 Latest Pull Requests I published
 
