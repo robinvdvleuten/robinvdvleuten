@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel  (3 days ago)
-- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (1 week ago)
-- [getquario/mcp](https://github.com/getquario/mcp) - An MCP server that exposes quario as validate and render tools (1 week ago)
+- [getquario/waarmerk](https://github.com/getquario/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (today)
+- [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
+- [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (today)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.35.0](https://github.com/fallow-rs/fallow/releases/tag/v3.35.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) ([5.5.0](https://github.com/spatie/laravel-newsletter/releases/tag/5.5.0), 3 days ago) - Manage newsletters in Laravel 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.34.1](https://github.com/fallow-rs/fallow/releases/tag/v3.34.1), 4 days ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [getquario/mcp](https://github.com/getquario/mcp) ([v0.3.0](https://github.com/getquario/mcp/releases/tag/v0.3.0), 1 week ago) - An MCP server that exposes quario as validate and render tools
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.9.1](https://github.com/getquario/padvinder/pull/58) on [getquario/padvinder](https://github.com/getquario/padvinder) (today)
 - [chore: version package](https://github.com/getquario/mcp/pull/8) on [getquario/mcp](https://github.com/getquario/mcp) (1 week ago)
 - [chore(main): release 0.15.0](https://github.com/getquario/sjabloon/pull/50) on [getquario/sjabloon](https://github.com/getquario/sjabloon) (1 week ago)
-- [chore(main): release 0.13.0](https://github.com/getquario/xprsn/pull/47) on [getquario/xprsn](https://github.com/getquario/xprsn) (1 week ago)
