@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getquario/waarmerk](https://github.com/getquario/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (1 week ago)
+- [getquario/werkmap](https://github.com/getquario/werkmap) - Tiny, CSP-safe OOXML spreadsheet writer (1 week ago)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 week ago)
 - [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (1 week ago)
 
