@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getquario/werkmap](https://github.com/getquario/werkmap) - Tiny, CSP-safe OOXML spreadsheet writer (1 week ago)
+- [getquario/waarmerk](https://github.com/getquario/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (1 week ago)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 week ago)
 - [getquario/padvinder](https://github.com/getquario/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (1 week ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.39.0](https://github.com/fallow-rs/fallow/releases/tag/v3.39.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.39.0](https://github.com/fallow-rs/fallow/releases/tag/v3.39.0), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) ([5.5.0](https://github.com/spatie/laravel-newsletter/releases/tag/5.5.0), 2 weeks ago) - Manage newsletters in Laravel 
 - [getquario/mcp](https://github.com/getquario/mcp) ([v0.3.0](https://github.com/getquario/mcp/releases/tag/v0.3.0), 3 weeks ago) - An MCP server that exposes quario as validate and render tools
 
