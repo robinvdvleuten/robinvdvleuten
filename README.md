@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/mijnverbruik](https://github.com/robinvdvleuten/mijnverbruik) -  (today)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (today)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (today)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (today)
 
 #### 🌱 My latest projects
 
+- [robinvdvleuten/mijnverbruik](https://github.com/robinvdvleuten/mijnverbruik) - 
 - [robinvdvleuten/skills](https://github.com/robinvdvleuten/skills) - 
 - [robinvdvleuten/hlsdl](https://github.com/robinvdvleuten/hlsdl) - A small Go CLI for downloading HSL streams
-- [robinvdvleuten/lezer-beancount](https://github.com/robinvdvleuten/lezer-beancount) - Beancount grammar for the lezer parser system
 
 #### 🔭 Latest releases I've contributed to
 
