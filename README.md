@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/mijnverbruik](https://github.com/robinvdvleuten/mijnverbruik) -  (1 day ago)
+- [robinvdvleuten/mijnverbruik](https://github.com/robinvdvleuten/mijnverbruik) -  (today)
 - [getquario/sjabloon](https://github.com/getquario/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 day ago)
 - [mijnverbruik/p1meter.dev](https://github.com/mijnverbruik/p1meter.dev) - Source behind p1meter.dev, the virtual P1 smart meter simulator (1 day ago)
 
