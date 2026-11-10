@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.41.0](https://github.com/fallow-rs/fallow/releases/tag/v3.41.0), 3 days ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.42.0](https://github.com/fallow-rs/fallow/releases/tag/v3.42.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) ([v1.1.1](https://github.com/mijnverbruik/dsmr/releases/tag/v1.1.1), 6 days ago) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data
 - [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) ([5.5.0](https://github.com/spatie/laravel-newsletter/releases/tag/5.5.0), 3 weeks ago) - Manage newsletters in Laravel 
 
