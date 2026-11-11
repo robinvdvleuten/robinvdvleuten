@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) - Fast, lightweight Beancount parser, formatter and editor written in Go (today)
+- [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) -  (today)
 - [robinvdvleuten/mijnverbruik](https://github.com/robinvdvleuten/mijnverbruik) -  (2 days ago)
-- [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) -  (6 days ago)
-- [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) - A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(main): release 0.17.3](https://github.com/robinvdvleuten/beancount/pull/760) on [robinvdvleuten/beancount](https://github.com/robinvdvleuten/beancount) (today)
 - [Redesign the app with a sky that follows the day, in Dutch](https://github.com/robinvdvleuten/mijnverbruik/pull/1) on [robinvdvleuten/mijnverbruik](https://github.com/robinvdvleuten/mijnverbruik) (2 days ago)
 - [chore(main): release 1.1.1](https://github.com/mijnverbruik/dsmr/pull/97) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
-- [test: move complete telegrams into fixture files](https://github.com/mijnverbruik/dsmr/pull/96) on [mijnverbruik/dsmr](https://github.com/mijnverbruik/dsmr) (1 week ago)
