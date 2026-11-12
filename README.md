@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) - One login for your agent’s mail and calendar: an MCP server for IMAP and CalDAV (today)
-- [emersion/go-ical](https://github.com/emersion/go-ical) - An iCalendar library for Go (today)
+- [getquario/meta](https://github.com/getquario/meta) - Quario&#39;s meta configuration files (today)
 - [robinvdvleuten/hearsay](https://github.com/robinvdvleuten/hearsay) - Find a provider&#39;s IMAP and CalDAV servers from an email address. (today)
 
 #### 🌱 My latest projects
@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: use hearsay for discovery and tzatziki for time zones](https://github.com/robinvdvleuten/pim-mcp/pull/9) on [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) (today)
-- [chore: release 0.1.1](https://github.com/robinvdvleuten/tzatziki/pull/8) on [robinvdvleuten/tzatziki](https://github.com/robinvdvleuten/tzatziki) (today)
-- [fix: catch rrule-go panics when it starts a rule](https://github.com/robinvdvleuten/tzatziki/pull/7) on [robinvdvleuten/tzatziki](https://github.com/robinvdvleuten/tzatziki) (today)
+- [caldav: make malformed calendar data non-fatal in client](https://github.com/emersion/go-webdav/pull/222) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (today)
+- [caldav: add Calendar.Color](https://github.com/emersion/go-webdav/pull/221) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (today)
+- [caldav, carddav: fill ReadOnly from current-user-privilege-set in client](https://github.com/emersion/go-webdav/pull/220) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (today)
