@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) - One login for your agent’s mail and calendar: an MCP server for IMAP and CalDAV (1 day ago)
-- [getquario/meta](https://github.com/getquario/meta) - Quario&#39;s meta configuration files (1 day ago)
-- [robinvdvleuten/hearsay](https://github.com/robinvdvleuten/hearsay) - Find a provider&#39;s IMAP and CalDAV servers from an email address. (1 day ago)
+- [emersion/go-webdav](https://github.com/emersion/go-webdav) - A Go library for WebDAV, CalDAV and CardDAV (today)
+- [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) - One login for your agent’s mail and calendar: an MCP server for IMAP and CalDAV (today)
+- [emersion/go-ical](https://github.com/emersion/go-ical) - An iCalendar library for Go (1 day ago)
 
 #### 🌱 My latest projects
 
