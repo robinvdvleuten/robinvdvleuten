@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [webdav: add HTTPErrorCode](https://github.com/emersion/go-webdav/pull/223) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (today)
 - [caldav: make malformed calendar data non-fatal in client](https://github.com/emersion/go-webdav/pull/222) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (1 day ago)
 - [caldav: add Calendar.Color](https://github.com/emersion/go-webdav/pull/221) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (1 day ago)
-- [caldav, carddav: fill ReadOnly from current-user-privilege-set in client](https://github.com/emersion/go-webdav/pull/220) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (1 day ago)
