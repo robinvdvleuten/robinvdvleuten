@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [emersion/go-webdav](https://github.com/emersion/go-webdav) - A Go library for WebDAV, CalDAV and CardDAV (1 day ago)
 - [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) - One login for your agent’s mail and calendar: an MCP server for IMAP and CalDAV (1 day ago)
-- [emersion/go-ical](https://github.com/emersion/go-ical) - An iCalendar library for Go (2 days ago)
+- [emersion/go-webdav](https://github.com/emersion/go-webdav) - A Go library for WebDAV, CalDAV and CardDAV (1 day ago)
+- [robinvdvleuten/homebrew-tap](https://github.com/robinvdvleuten/homebrew-tap) - My homebrew tap 🍺 (2 days ago)
 
 #### 🌱 My latest projects
 
