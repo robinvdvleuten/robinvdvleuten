@@ -20,6 +20,6 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [ci: sync dependabot config](https://github.com/getquario/mcp/pull/28) on [getquario/mcp](https://github.com/getquario/mcp) (today)
 - [webdav: add HTTPErrorCode](https://github.com/emersion/go-webdav/pull/223) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (2 days ago)
 - [caldav: make malformed calendar data non-fatal in client](https://github.com/emersion/go-webdav/pull/222) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (3 days ago)
-- [caldav: add Calendar.Color](https://github.com/emersion/go-webdav/pull/221) on [emersion/go-webdav](https://github.com/emersion/go-webdav) (3 days ago)
