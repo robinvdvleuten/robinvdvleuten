@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/waarmerk](https://github.com/robinvdvleuten/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (2 days ago)
-- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (2 days ago)
-- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (2 days ago)
+- [robinvdvleuten/waarmerk](https://github.com/robinvdvleuten/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (3 days ago)
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (3 days ago)
+- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.44.0](https://github.com/fallow-rs/fallow/releases/tag/v3.44.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
-- [commerceguys/addressing](https://github.com/commerceguys/addressing) ([v2.3.3](https://github.com/commerceguys/addressing/releases/tag/v2.3.3), 2 days ago) - A PHP addressing library, powered by CLDR and Google&#39;s address data.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.44.0](https://github.com/fallow-rs/fallow/releases/tag/v3.44.0), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [commerceguys/addressing](https://github.com/commerceguys/addressing) ([v2.3.3](https://github.com/commerceguys/addressing/releases/tag/v2.3.3), 3 days ago) - A PHP addressing library, powered by CLDR and Google&#39;s address data.
 - [robinvdvleuten/pim-mcp](https://github.com/robinvdvleuten/pim-mcp) ([v0.1.0](https://github.com/robinvdvleuten/pim-mcp/releases/tag/v0.1.0), 1 week ago) - One login for your agent’s mail and calendar: an MCP server for IMAP and CalDAV
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/treffer/pull/60) on [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) (2 days ago)
-- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/sjabloon/pull/76) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (2 days ago)
-- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/xprsn/pull/70) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (2 days ago)
+- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/treffer/pull/60) on [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) (3 days ago)
+- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/sjabloon/pull/76) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (3 days ago)
+- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/xprsn/pull/70) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (3 days ago)
