@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [robinvdvleuten/waarmerk](https://github.com/robinvdvleuten/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (6 days ago)
-- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (6 days ago)
-- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (6 days ago)
+- [robinvdvleuten/waarmerk](https://github.com/robinvdvleuten/waarmerk) - Tiny and spoof-proof located diagnostics for JavaScript parsers (1 week ago)
+- [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) - Tiny, CSP-safe template engine for JavaScript (1 week ago)
+- [robinvdvleuten/padvinder](https://github.com/robinvdvleuten/padvinder) - Tiny, CSP-safe JSONPath engine for JavaScript (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.47.0](https://github.com/fallow-rs/fallow/releases/tag/v3.47.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
-- [emersion/go-webdav](https://github.com/emersion/go-webdav) ([v0.8.0](https://github.com/emersion/go-webdav/releases/tag/v0.8.0), 2 days ago) - A Go library for WebDAV, CalDAV and CardDAV
-- [commerceguys/addressing](https://github.com/commerceguys/addressing) ([v2.3.3](https://github.com/commerceguys/addressing/releases/tag/v2.3.3), 6 days ago) - A PHP addressing library, powered by CLDR and Google&#39;s address data.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.47.0](https://github.com/fallow-rs/fallow/releases/tag/v3.47.0), 1 day ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [emersion/go-webdav](https://github.com/emersion/go-webdav) ([v0.8.0](https://github.com/emersion/go-webdav/releases/tag/v0.8.0), 3 days ago) - A Go library for WebDAV, CalDAV and CardDAV
+- [commerceguys/addressing](https://github.com/commerceguys/addressing) ([v2.3.3](https://github.com/commerceguys/addressing/releases/tag/v2.3.3), 1 week ago) - A PHP addressing library, powered by CLDR and Google&#39;s address data.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/treffer/pull/60) on [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) (6 days ago)
-- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/sjabloon/pull/76) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (6 days ago)
-- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/xprsn/pull/70) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (6 days ago)
+- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/treffer/pull/60) on [robinvdvleuten/treffer](https://github.com/robinvdvleuten/treffer) (1 week ago)
+- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/sjabloon/pull/76) on [robinvdvleuten/sjabloon](https://github.com/robinvdvleuten/sjabloon) (1 week ago)
+- [ci: format the fuzz workflow](https://github.com/robinvdvleuten/xprsn/pull/70) on [robinvdvleuten/xprsn](https://github.com/robinvdvleuten/xprsn) (1 week ago)
