@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.48.0](https://github.com/fallow-rs/fallow/releases/tag/v3.48.0), 2 days ago) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) ([v3.49.0](https://github.com/fallow-rs/fallow/releases/tag/v3.49.0), today) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
 - [emersion/go-webdav](https://github.com/emersion/go-webdav) ([v0.8.0](https://github.com/emersion/go-webdav/releases/tag/v0.8.0), 5 days ago) - A Go library for WebDAV, CalDAV and CardDAV
 - [commerceguys/addressing](https://github.com/commerceguys/addressing) ([v2.3.3](https://github.com/commerceguys/addressing/releases/tag/v2.3.3), 1 week ago) - A PHP addressing library, powered by CLDR and Google&#39;s address data.
 
